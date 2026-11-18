@@ -15,8 +15,8 @@ This repository contains **Gruvbox Dark** and **Gruvbox Light** themes for [Flow
 ## 🛠️ Installation
 
 1.  Download the `.xaml` file(s) you want:
-      * [Gruvbox Dark.xaml](https://github.com/koresent/Flow-Launcher-Gruvbox-theme/blob/main/Gruvbox%20Dark.xaml)
-      * [Gruvbox Light.xaml](https://github.com/koresent/Flow-Launcher-Gruvbox-theme/blob/main/Gruvbox%20Light.xaml)
+      * [Gruvbox Dark.xaml](https://github.com/koresent/gruvbox-flow-launcher-theme/blob/main/Gruvbox%20Dark.xaml)
+      * [Gruvbox Light.xaml](https://github.com/koresent/gruvbox-flow-launcher-theme/blob/main/Gruvbox%20Light.xaml)
 2.  Open Flow Launcher's user data directory:
       * The easiest way is to press `Win + R`, paste `%APPDATA%\FlowLauncher\Themes` and hit Enter.
       * Alternatively, type `open log location` in Flow Launcher, and then navigate **two levels up** to find the `Themes` folder.
